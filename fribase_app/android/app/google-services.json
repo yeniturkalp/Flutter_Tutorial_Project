@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435870501160",
+    "project_id": "fir-app-43ee9",
+    "storage_bucket": "fir-app-43ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435870501160:android:95c2d062a9d4a065f5681d",
+        "android_client_info": {
+          "package_name": "com.alp.fribase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435870501160-j5ha4f61ovv9po7naeif40d3s878hu1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alp.fribase_app",
+            "certificate_hash": "b8a6b5d62baf12e09652cbab2ca8a18f4f2fcebd"
+          }
+        },
+        {
+          "client_id": "435870501160-h6mnlsn8s8ipd29lq8pt494gbrultvut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_KiiQHtxYgTKkk9PUcUkYmNLKRk9JnSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435870501160-h6mnlsn8s8ipd29lq8pt494gbrultvut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
